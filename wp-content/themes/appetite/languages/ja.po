@@ -1,0 +1,334 @@
+# Translation of WordPress.com - Themes - Appetite in Japanese
+# This file is distributed under the same license as the WordPress.com - Themes - Appetite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-20 00:17:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: WordPress.com - Themes - Appetite\n"
+
+#: comments.php:30
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s件のコメント"
+
+#: comments.php:28
+msgid "One comment"
+msgstr "1件のコメント"
+
+#: inc/wpcom-colors.php:154
+msgid "Red and Blue"
+msgstr "赤と青"
+
+#: inc/wpcom-colors.php:146
+msgid "Marine"
+msgstr "マリーン"
+
+#: inc/wpcom-colors.php:67
+msgid "Links"
+msgstr "リンク"
+
+#: inc/wpcom-colors.php:17
+msgid "Main Accent"
+msgstr "メインアクセント"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/menu-page.php
+msgid "Menu Page"
+msgstr "メニューページ"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/grid-page.php
+msgid "Grid Page"
+msgstr "グリッドページ"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/grid-full-width-page.php
+msgid "Grid Page (Full Width)"
+msgstr "﻿グリッドページ (全幅)"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/full-width-page.php
+msgid "Full Width Page"
+msgstr "全幅ページ"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/front-page.php
+msgid "Front Page"
+msgstr "フロントページ"
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/appetite/style.css
+msgid "Appetite is a clean, flexible and fully responsive WordPress theme with special features for restaurants and cafes. Also, this theme can be used for any other business sites."
+msgstr "Appetite は、クリーンで柔軟性のあるレストランやカフェなどに特化したフルレスポンシブ WordPress テーマです。さらに、他業種のビジネスサイトにもお使いいただけます。"
+
+#: search.php:20
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした。"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: parts/single-attachment-header.php:27 parts/single-page-header.php:21
+#: parts/single-post-header.php:28
+msgid "Edit"
+msgstr "編集"
+
+#: parts/author-section.php:18
+msgid "Written by %s"
+msgstr "投稿者: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:46
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/extras.php:185 single-jetpack-testimonial.php:44
+#: single-nova_menu_item.php:22 single.php:28
+msgid "Next"
+msgstr "次へ"
+
+#: inc/extras.php:175 single-jetpack-testimonial.php:46
+#: single-nova_menu_item.php:24 single.php:30
+msgid "Previous"
+msgstr "前"
+
+#: inc/extras.php:86
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/customizer.php:331
+msgid "Enable slideshow autoplay"
+msgstr "スライドショー自動再生を有効化"
+
+#: inc/customizer.php:317
+msgid "Display Testimonials"
+msgstr "推薦文を表示"
+
+#: inc/customizer.php:305
+msgid "Front Testimonials"
+msgstr "フロント推薦文"
+
+#: inc/customizer.php:300
+msgid "Select a layout that you want to have for this section."
+msgstr "このセクションで使いたいレイアウトを選択してください。"
+
+#: inc/customizer.php:293
+msgid "Section Layout"
+msgstr "セクションレイアウト"
+
+#: inc/customizer.php:282
+msgid "Enter a number of posts you want to show in this section."
+msgstr "このセクションに表示したい投稿数を入力してください。"
+
+#: inc/customizer.php:278
+msgid "Number of posts to show"
+msgstr "表示する投稿数"
+
+#: inc/customizer.php:265
+msgid "Section Title"
+msgstr "セクションタイトル"
+
+#: inc/customizer.php:123
+msgid "Front Featured Page #2"
+msgstr "フロントおすすめページ2"
+
+#: inc/customizer.php:118 inc/customizer.php:176 inc/customizer.php:234
+msgid "Choose the layout for the grid items."
+msgstr "グリッド項目のレイアウトを選択してください。"
+
+#: inc/customizer.php:115 inc/customizer.php:173 inc/customizer.php:231
+#: inc/customizer.php:297
+msgid "Three Columns"
+msgstr "3列"
+
+#: inc/customizer.php:114 inc/customizer.php:172 inc/customizer.php:230
+#: inc/customizer.php:296
+msgid "Two Columns"
+msgstr "2列"
+
+#: inc/customizer.php:111 inc/customizer.php:169 inc/customizer.php:227
+msgid "Grid Layout"
+msgstr "グリッドレイアウト"
+
+#: inc/customizer.php:100 inc/customizer.php:158 inc/customizer.php:216
+msgid "Choose the position for your page content."
+msgstr "ページコンテンツの配置を選択してください。"
+
+#: inc/customizer.php:97 inc/customizer.php:155 inc/customizer.php:213
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer.php:92 inc/customizer.php:150 inc/customizer.php:208
+msgid "Content Position"
+msgstr "コンテンツ配置"
+
+#: inc/customizer.php:78 inc/customizer.php:136 inc/customizer.php:194
+msgid "Featured Page"
+msgstr "おすすめページ"
+
+#: inc/customizer.php:65
+msgid "Front Featured Page #1"
+msgstr "フロントおすすめページ1"
+
+#: inc/customizer.php:56
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+#: inc/customizer.php:43 inc/customizer.php:95 inc/customizer.php:153
+#: inc/customizer.php:211
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer.php:42 inc/customizer.php:96 inc/customizer.php:154
+#: inc/customizer.php:212
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer.php:38
+msgid "Sidebar Position"
+msgstr "サイドバー配置"
+
+#: inc/customizer.php:26
+msgid "General Options"
+msgstr "一般設定"
+
+#: inc/customizer.php:21
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: header.php:61
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:60
+msgid "Search"
+msgstr "検索"
+
+#: header.php:25
+msgid "Close"
+msgstr "閉じる"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:138
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:143
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:119
+msgid "Appears in the footer section of the site."
+msgstr "サイトのフッター領域に表示されます。"
+
+#: functions.php:118
+msgid "Footer"
+msgstr "フッター"
+
+#: functions.php:109
+msgid "Appears in the sidebar section of the site."
+msgstr "サイトのサイドバーセクションに表示されます。"
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:52
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:37
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:35
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:35
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: content.php:44 inc/extras.php:273
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#. translators: %s: Name of current post
+#: content-grid.php:41 content-testimonial.php:26 content.php:39
+#: functions.php:207 parts/featured-pages/content-one.php:36
+#: parts/featured-pages/content-three.php:36
+#: parts/featured-pages/content-two.php:36 parts/hero-slideshow.php:24
+msgid "Read More %s"
+msgstr "続きを読む %s"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: archive-jetpack-testimonial.php:27 parts/front-testimonials.php:32
+msgid "Testimonials"
+msgstr "推薦文"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:17 archive.php:27
+msgid "Oops! That page can't be found."
+msgstr "お探しのページが見つかりません。"

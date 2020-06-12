@@ -1,0 +1,392 @@
+# Translation of WordPress.com - Themes - Appetite in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Appetite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-23 20:08:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Appetite\n"
+
+#: inc/customizer.php:96
+msgid "Use this option to change a transition speed between the slides."
+msgstr "Folosește această opțiune pentru a modifica viteza de tranziție între diapozitive."
+
+#: inc/customizer.php:95
+msgid "Transition Speed"
+msgstr "Viteză de tranziție"
+
+#: inc/customizer.php:350
+msgid "Front Page: Testimonials"
+msgstr "Pagina din față: testimoniale"
+
+#: inc/customizer.php:305 parts/front-recent-posts.php:27
+msgid "Recent News"
+msgstr "Știri recente"
+
+#: inc/customizer.php:283
+msgid "Front Page: Blog Posts"
+msgstr "Pagina din față: articole de blog"
+
+#: inc/customizer.php:224
+msgid "Front Page: Featured Page #3"
+msgstr "Pagina din față: pagina reprezentativă nr. 3"
+
+#: inc/customizer.php:165
+msgid "Front Page: Featured Page #2"
+msgstr "Pagina din față: pagina reprezentativă #2"
+
+#: inc/customizer.php:106
+msgid "Front Page: Featured Page #1"
+msgstr "Pagina din față: pagina reprezentativă #2"
+
+#: inc/customizer.php:68
+msgid "Additional Featured Content options specifically developed for this theme."
+msgstr "Opțiuni suplimentare pentru conținutul reprezentativ proiectate special pentru această temă."
+
+#: inc/customizer.php:65
+msgid "Front Page: Featured Content"
+msgstr "Pagina din față: conținut reprezentativ"
+
+#: comments.php:30
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s comentariu"
+msgstr[1] "%s comentarii"
+msgstr[2] "%s de comentarii"
+
+#: comments.php:28
+msgid "One comment"
+msgstr "Un comentariu"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/appetite/style.css
+msgid "https://themesharbor.com/"
+msgstr "https://themesharbor.com/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/premium/appetite/style.css
+msgid "Themes Harbor"
+msgstr "Teme Harbor"
+
+#: inc/wpcom-colors.php:154
+msgid "Red and Blue"
+msgstr "Roșu și albastru"
+
+#: inc/wpcom-colors.php:146
+msgid "Marine"
+msgstr "Marin"
+
+#: inc/wpcom-colors.php:67
+msgid "Links"
+msgstr "Legături"
+
+#: inc/wpcom-colors.php:17
+msgid "Main Accent"
+msgstr "Accent principal"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/menu-page.php
+msgid "Menu Page"
+msgstr "Pagină meniu"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/grid-page.php
+msgid "Grid Page"
+msgstr "Pagină grilă"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/grid-full-width-page.php
+msgid "Grid Page (Full Width)"
+msgstr "Pagină grilă (lățime completă)"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/full-width-page.php
+msgid "Full Width Page"
+msgstr "Pagină cu Lățime Completă"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/front-page.php
+msgid "Front Page"
+msgstr "Pagina principală"
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/appetite/style.css
+msgid "Appetite is a clean, flexible and fully responsive WordPress theme with special features for restaurants and cafes. Also, this theme can be used for any other business sites."
+msgstr "Appetite este o temă WordPress curată, flexibilă și complet responsivă cu funcționalități speciale pentru restaurante și cafenele. De asemenea, această temă poate fi folosită pentru orice alte situri de afaceri."
+
+#: search.php:17
+msgid "Nothing Found"
+msgstr "Nimic găsit"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: parts/single-attachment-header.php:27 parts/single-page-header.php:16
+#: parts/single-post-header.php:27
+msgid "Edit"
+msgstr "Editare"
+
+#: parts/author-section.php:18
+msgid "Written by %s"
+msgstr "Scris de %s"
+
+#: inc/template-tags.php:50
+msgid "Tagged: %s"
+msgstr "Etichetat: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: single-jetpack-testimonial.php:44 single-nova_menu_item.php:23 single.php:27
+msgid "Next"
+msgstr "Următor"
+
+#: single-jetpack-testimonial.php:45 single-nova_menu_item.php:24 single.php:28
+msgid "Previous"
+msgstr "Precedent"
+
+#: inc/customizer.php:79
+msgid "Enable slideshow autoplay"
+msgstr "Activează redare automată carusel"
+
+#: inc/customizer.php:367
+msgid "If left checked then five random testimonials will be shown on a custom Front Page template."
+msgstr "Dacă este lăsată bifată, atunci vor fi arătate cinci testimoniale aleatorii într-un șablon de pagină din față personalizat."
+
+#: inc/customizer.php:363
+msgid "Display Testimonials"
+msgstr "Afișează testimoniale"
+
+#: inc/customizer.php:345
+msgid "Select a layout that you want to have for this section."
+msgstr "Selectează un aranjament pe care vrei să-l ai pentru acestă secțiune."
+
+#: inc/customizer.php:338
+msgid "Section Layout"
+msgstr "Aranjament secțiune"
+
+#: inc/customizer.php:327
+msgid "Enter a number of posts you want to show in this section."
+msgstr "Introdu un număr de articole pe care vrei să le arăți în această secțiune."
+
+#: inc/customizer.php:323
+msgid "Number of posts to show"
+msgstr "Numărul de articole pentru afișare"
+
+#: inc/customizer.php:310
+msgid "Section Title"
+msgstr "Titlu secțiune"
+
+#: inc/customizer.php:300
+msgid "If left checked then recent blog posts will be shown on a custom Front Page template."
+msgstr "Dacă este lăsată bifată, atunci vor fi arătate articole recente de pe blog într-un șablon de pagină din față personalizat."
+
+#: inc/customizer.php:296
+msgid "Display Recent Blog Posts"
+msgstr "Afișează articole de blog recente"
+
+#: inc/customizer.php:160 inc/customizer.php:219 inc/customizer.php:278
+msgid "Choose the layout for the grid items."
+msgstr "Alege aranjamentul pentru elementele grilă."
+
+#: inc/customizer.php:157 inc/customizer.php:216 inc/customizer.php:275
+#: inc/customizer.php:342
+msgid "Three Columns"
+msgstr "Trei coloane"
+
+#: inc/customizer.php:156 inc/customizer.php:215 inc/customizer.php:274
+#: inc/customizer.php:341
+msgid "Two Columns"
+msgstr "Două coloane"
+
+#: inc/customizer.php:153 inc/customizer.php:212 inc/customizer.php:271
+msgid "Grid Layout"
+msgstr "Aranjament grilă"
+
+#: inc/customizer.php:142 inc/customizer.php:201 inc/customizer.php:260
+msgid "Choose the position for your page content."
+msgstr "Alege poziția pentru conținutul paginii tale."
+
+#: inc/customizer.php:139 inc/customizer.php:198 inc/customizer.php:257
+msgid "Center"
+msgstr "Centru"
+
+#: inc/customizer.php:134 inc/customizer.php:193 inc/customizer.php:252
+msgid "Content Position"
+msgstr "Poziție conținut"
+
+#: inc/customizer.php:120 inc/customizer.php:179 inc/customizer.php:238
+msgid "Featured Page"
+msgstr "Pagină reprezentativă"
+
+#: inc/customizer.php:109 inc/customizer.php:168 inc/customizer.php:227
+msgid "In order to display a grid layout in this section, you need to select a page that has child pages."
+msgstr "Pentru a afișa un aranjament grilă în această secțiune, trebuie să selectezi o pagină care are pagini copil."
+
+#: inc/customizer.php:60
+msgid "This text will appear next to the copyright text (year and site name) at the bottom of the page."
+msgstr "Acest text va apărea lângă textul drepturi de autor (anul și numele sitului) în partea de jos a paginii."
+
+#: inc/customizer.php:56
+msgid "Footer Text"
+msgstr "Text subsol"
+
+#: inc/customizer.php:46
+msgid "By default the appetite theme will show the sidebar on the right side of your site. Use this option to change the position of your sidebar."
+msgstr "Tema Appetite va arăta implicit bara laterală în partea dreaptă a sitului tău. Folosește această opțiune pentru a schimba poziția barei laterale."
+
+#: inc/customizer.php:43 inc/customizer.php:137 inc/customizer.php:196
+#: inc/customizer.php:255
+msgid "Left"
+msgstr "Stânga"
+
+#: inc/customizer.php:42 inc/customizer.php:138 inc/customizer.php:197
+#: inc/customizer.php:256
+msgid "Right"
+msgstr "Dreapta"
+
+#: inc/customizer.php:38
+msgid "Sidebar Position"
+msgstr "Poziție bară laterală"
+
+#: inc/customizer.php:26
+msgid "General Options"
+msgstr "Opțiuni generale"
+
+#: inc/customizer.php:21
+msgid "Theme Options"
+msgstr "Opțiuni temă"
+
+#: header.php:63
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:62
+msgid "Search"
+msgstr "Căutare"
+
+#: header.php:25
+msgid "Close"
+msgstr "Închide"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:138
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:143
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:119
+msgid "Appears in the footer section of the site."
+msgstr "Apare în secțiunea subsol a sitului."
+
+#: functions.php:118
+msgid "Footer"
+msgstr "Subsol"
+
+#: functions.php:109
+msgid "Appears in the sidebar section of the site."
+msgstr "Apare în secțiunea bară laterală a sitului."
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: functions.php:52
+msgid "Social Menu"
+msgstr "Meniu socializare"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: footer.php:39
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:37
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:37
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:44 inc/extras.php:176
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nu s-a putut găsi conținutul căutat. Probabil o căutare sau una dintre legăturile de mai jos pot ajuta."
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ne pare rau, căutarea nu are nici un rezultat. Vă rugăm să încercați din nou cu unele cuvinte cheie diferite."
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pregătit să publici primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#. translators: %s: Name of current post
+#: content-grid.php:41 content-testimonial.php:26 content.php:39
+#: functions.php:210 parts/featured-pages/content-one.php:36
+#: parts/featured-pages/content-three.php:36
+#: parts/featured-pages/content-two.php:36 parts/hero-slideshow.php:17
+msgid "Read More %s"
+msgstr "Citește mai mult %s"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:24
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:24
+msgid "1 Comment"
+msgstr "1 comentariu"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:24
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: archive-jetpack-testimonial.php:22 parts/front-testimonials.php:32
+msgid "Testimonials"
+msgstr "Testimoniale"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu a fost găsit nimic aici. Poate încerci o căutare?"
+
+#: 404.php:13 archive.php:23
+msgid "Oops! That page can't be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."

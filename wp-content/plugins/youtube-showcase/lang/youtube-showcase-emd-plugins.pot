@@ -1,0 +1,2152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-05-20T11:18:03-04:00\n"
+"POT-Creation-Date: 2020-05-20T11:18:03-04:00\n"
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/field.php:234
+msgid "+ Add more"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:18
+msgid "Done"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:19
+msgid "Prev"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:20
+msgid "Next"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:21
+msgid "Today"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "January"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "February"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "March"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "April"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "May"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "June"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "July"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "August"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "September"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "October"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "November"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "December"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jan"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Feb"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Mar"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Apr"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jun"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jul"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Aug"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Sep"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Oct"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Nov"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Dec"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Sunday"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Monday"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Thursday"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Friday"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Saturday"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sun"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Mon"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Tue"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Wed"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Thu"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Fri"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sat"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Su"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Mo"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Tu"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "We"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Th"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Fr"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Sa"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/date.php:27
+msgid "Wk"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/datetime.php:33
+msgid "Choose Time"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/datetime.php:34
+msgid "Time"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/datetime.php:35
+msgid "Hour"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/datetime.php:36
+msgid "Minute"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/datetime.php:37
+msgid "Second"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/datetime.php:38
+msgid "Millisecond"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/datetime.php:39
+msgid "Time Zone"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/datetime.php:40
+msgid "Now"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file-advanced.php:100
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file-advanced.php:101
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:21
+msgid "File Size is greater than allowed limit."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:22
+msgid "Invalid file type."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:72
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:85
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:86
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:96
+msgid "Max number of files: %s"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:99
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:107
+msgid "Max file size: %s"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/file.php:110
+msgid "File extensions allowed: %s"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/image-advanced.php:69
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/image-advanced.php:105
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/image-advanced.php:106
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/image.php:70
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/map.php:53
+msgid "Find Address"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/post.php:66
+msgid "Select a %s"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:118
+msgid "This field is required."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:119
+msgid "Please fix this field."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:120
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:121
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:122
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:123
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:124
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:125
+msgid "Please enter only digits."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:126
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:127
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:128
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:129
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:130
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:131
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:132
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:133
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: ./youtube-showcase/assets/ext/emd-meta-box/inc/meta-box.php:297
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/class-emd-list-table.php:134
+msgid "Attribute"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/class-emd-list-table.php:137
+msgid "Taxonomy"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/class-emd-list-table.php:145
+msgid "Copy"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:19
+msgid "Global"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:56
+msgid "%s is required."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:144
+msgid "Frontend Map Settings"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:145
+msgid "Width"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:145
+msgid "Sets the map width.You can use '%' or 'px'. Default is 100%."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:146
+msgid "Height"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:146
+msgid "Sets the map height. You can use 'px'. Default is 480px."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:147
+msgid "Zoom"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:156
+msgid "Type"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:166
+msgid "Marker"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:167
+msgid "Marker Title"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:167
+msgid "Sets the marker title when hover."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:168
+msgid "Info Window"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:168
+msgid "Sets the content of the info box. You can use html tags."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:169
+msgid "Display Info Window on Page Load"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-globs.php:170
+msgid "You can drag and drop the marker to specify the exact location."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:35
+msgid "Misc"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:82
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:89
+msgid "Google requires api key to access google map service. By default we provide a complimentary key. Get your own google maps api key to avoid service interruptions"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:93
+msgid "Disable Bootstrap CSS"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:103
+msgid "Disables loading of Bootstrap stylesheet in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based stylesheet."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:105
+msgid "Disable Bootstrap JS"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:115
+msgid "Disables loading of Bootstrap JavaScript in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based JavaScript."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:119
+msgid "Autocomplete Minimum Input Length"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:128
+msgid "Autocomplete Number of Results Returned"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:139
+msgid "No Access Message"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:140
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:143
+msgid "Show Register / Login Form"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:145
+msgid "Only Message"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:146
+msgid "Registration and Login Forms"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:147
+msgid "Only Login Form"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions-misc.php:156
+msgid "Display the registration and login forms on the pages non-logged-in users don't have access to."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:45
+msgid "Entities"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:61
+msgid "Taxonomies"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:64
+msgid "Tools"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:67
+msgid "Settings Saved."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:193
+#: ./youtube-showcase/includes/admin/settings-functions.php:1229
+msgid "Base slug"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:196
+msgid "Sets the custom base slug for single and archive %s. After you update,  flush the rewrite rules by going to the Permalink Settings page. This works only if post name based permalink structure is selected."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:198
+msgid "Single template"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:202
+#: ./youtube-showcase/includes/admin/settings-functions.php:1238
+msgid "Right Sidebar"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:202
+#: ./youtube-showcase/includes/admin/settings-functions.php:1238
+msgid "Left Sidebar"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:202
+#: ./youtube-showcase/includes/admin/settings-functions.php:1238
+msgid "Full Width"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:210
+msgid "Sets the template for single %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:212
+#: ./youtube-showcase/includes/admin/settings-functions.php:1248
+msgid "Container type"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:216
+#: ./youtube-showcase/includes/admin/settings-functions.php:263
+#: ./youtube-showcase/includes/admin/settings-functions.php:1252
+msgid "Fixed"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:216
+#: ./youtube-showcase/includes/admin/settings-functions.php:263
+#: ./youtube-showcase/includes/admin/settings-functions.php:1252
+msgid "Full"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:224
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for single %s. Full type provides a full width container, spanning the entire width of the viewport for single %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:226
+msgid "Hide previous next links"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:233
+msgid "Hides the previous and next %s links on the frontend for single %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:235
+msgid "Hide edit links"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:242
+msgid "Hides edit %s link on the frontend for single %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:246
+msgid "Archive template"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:257
+msgid "Sets the template for archive %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:259
+msgid "Archive container type"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:271
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for archive %s. Full type provides a full width container, spanning the entire width of the viewport for archive %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:273
+#: ./youtube-showcase/includes/admin/settings-functions.php:1262
+msgid "Hide page navigation"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:280
+msgid "Hides the page navigation links on the frontend for archive %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:285
+#: ./youtube-showcase/includes/admin/settings-functions.php:289
+#: ./youtube-showcase/includes/admin/settings-functions.php:292
+#: ./youtube-showcase/includes/admin/settings-functions.php:579
+#: ./youtube-showcase/includes/admin/settings-functions.php:635
+#: ./youtube-showcase/includes/admin/settings-functions.php:1147
+#: ./youtube-showcase/includes/admin/settings-functions.php:1176
+msgid "Enable"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:286
+#: ./youtube-showcase/includes/admin/settings-functions.php:290
+#: ./youtube-showcase/includes/admin/settings-functions.php:580
+#: ./youtube-showcase/includes/admin/settings-functions.php:636
+#: ./youtube-showcase/includes/admin/settings-functions.php:1148
+#: ./youtube-showcase/includes/admin/settings-functions.php:1177
+msgid "Disable"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:287
+#: ./youtube-showcase/includes/admin/settings-functions.php:293
+#: ./youtube-showcase/includes/admin/settings-functions.php:581
+#: ./youtube-showcase/includes/admin/settings-functions.php:637
+#: ./youtube-showcase/includes/admin/settings-functions.php:1149
+#: ./youtube-showcase/includes/admin/settings-functions.php:1178
+msgid "Show only in Admin"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:305
+#: ./youtube-showcase/includes/admin/settings-functions.php:306
+#: ./youtube-showcase/includes/admin/settings-functions.php:1131
+#: ./youtube-showcase/includes/admin/settings-functions.php:1132
+msgid "Show"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:305
+#: ./youtube-showcase/includes/admin/settings-functions.php:306
+#: ./youtube-showcase/includes/admin/settings-functions.php:1131
+#: ./youtube-showcase/includes/admin/settings-functions.php:1132
+msgid "Do not show"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:306
+#: ./youtube-showcase/includes/admin/settings-functions.php:1132
+msgid "Allow Edit"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:413
+msgid "Featured Image"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:690
+msgid "Attributes"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:692
+msgid "Enable: Display this attribute on everywhere</br>Disable: Remove this attribute from everywhere</br>Show only in Admin: This attribute is still enabled on admin area. If you want to hide this attribute on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:701
+#: ./youtube-showcase/includes/admin/settings-functions.php:1166
+msgid "Visibility"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:703
+#: ./youtube-showcase/includes/admin/settings-functions.php:1168
+msgid "Visitor"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:725
+msgid "Remove access restrictions on frontend"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:732
+msgid "Shows all %s to logged in and non-logged in users regardless of content access permissions assigned to their user role."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:739
+msgid "Use the options below to customize file uploads."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:742
+#: ./youtube-showcase/includes/admin/settings-functions.php:925
+msgid "Maximum files"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:752
+#: ./youtube-showcase/includes/admin/settings-functions.php:932
+msgid "Sets the maximum number of allowable file uploads."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:755
+#: ./youtube-showcase/includes/admin/settings-functions.php:934
+msgid "Maximum file size"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:770
+#: ./youtube-showcase/includes/admin/settings-functions.php:946
+msgid "Sets the maximum uploadable file size in kilobytes. Your server allows up to %s KB. Leave it blank to use server limit."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:772
+#: ./youtube-showcase/includes/admin/settings-functions.php:948
+msgid "Allowed file extensions"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:782
+#: ./youtube-showcase/includes/admin/settings-functions.php:955
+msgid "Sets the file extensions allowed to upload. Seperate each extension by a comma. For example: jpg,png,pdf"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:789
+#: ./youtube-showcase/includes/admin/settings-functions.php:814
+msgid "Use the option below to select a default."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:791
+msgid "Default Country"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:816
+msgid "Default State"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:846
+msgid "Use the options below to customize %s %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:848
+msgid "Set placeholder"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:851
+msgid "Join the discussion..."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:858
+msgid "Set the depth of threaded (nested) comments"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:869
+msgid "All"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:874
+msgid "None"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:884
+msgid "Posts per page"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:896
+msgid "Show labels for user roles"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:902
+msgid "Displays the default plugin user roles (%s) next to the user name in a response box when a user belonging to that role leaves a reply."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:905
+msgid "Enable file uploads"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:917
+msgid "Enable file uploads for non-logged in users"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1008
+msgid "Frontend map settings"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1031
+msgid "Display info window on page load"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1143
+msgid "Availability"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1159
+#: ./youtube-showcase/includes/admin/settings-functions.php:1224
+msgid "Enable: Display this taxonomy on everywhere</br>Disable: Remove this taxonomy from everywhere</br>Show only in Admin: This taxonomy is still enabled on admin area. If you want to hide this taxonomy on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1231
+msgid "Sets the custom base slug for this taxonomy. After you update,  flush the rewrite rules by going to the Permalink Settings page."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1234
+msgid "Template"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1246
+msgid "Sets the template for the posts which belong to this taxonomy."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1260
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for this taxonomy. Full type provides a full width container, spanning the entire width of the viewport for this taxonomy."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1269
+msgid "Hides the page navigation links on the frontend for archive posts."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1306
+msgid "All missing pages were installed successfully."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1317
+#: ./youtube-showcase/includes/admin/settings-functions.php:1319
+msgid "Install pages"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1320
+msgid "This tool will install all the missing %s pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1322
+msgid "Disable EMD Templating System"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1329
+msgid "Check this if you experience theme related issues. This will disable EMD Templating System and use your themes templates instead. It will also disable all the templating related options in Entities and Taxonomies tabs. If you still experience theme related issues after checking this option, read the plugin documentation's resolving theme related issues section."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1331
+msgid "Delete all settings"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1338
+msgid "This tool will delete all settings/options data including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1340
+msgid "Delete all data"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1353
+msgid "This tool will delete all %s data and related taxonomies including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen. As a best practice we recommend you to backup your database before selecting this option."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1355
+msgid "Custom CSS"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1359
+msgid "Custom CSS allows you to add your own styles or override the default CSS of this plugin. The CSS code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1361
+msgid "Custom JS"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/settings-functions.php:1365
+msgid "Custom JS allows you to add your own JavaScript. The JavaScript code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/shortcode-list-functions.php:20
+msgid "Visual ShortCode Builder"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/shortcode-list-functions.php:25
+#: ./youtube-showcase/includes/admin/shortcode-list-functions.php:34
+msgid "The following shortcodes are provided by default. To use the shortcode, click copy button and paste it in a page."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/shortcode-list-functions.php:26
+msgid "To create advanced shortcodes click Create New button."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/shortcode-list-functions.php:29
+msgid "ShortCodes"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/shortcode-list-functions.php:35
+msgid "To learn more on how to create new shortcodes with filters go to the %s documentation.%s"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/store-functions.php:24
+msgid "Browse All"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/store-functions.php:64
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/store-functions.php:64
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/store-functions.php:89
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:23
+msgid "Please Select"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:35
+msgid "Standards"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:52
+msgid "AutoCompletes"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:60
+msgid "Integrations"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:71
+msgid "Charts"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:87
+msgid "Datagrids"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:95
+msgid "Calendars"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:177
+msgid "Create Shortcodes"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:178
+msgid "Select a component below to insert into any Post or Page."
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:183
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:205
+#: ./youtube-showcase/includes/admin/wpas-btn-functions.php:206
+msgid "Create shortcodes using Visual Shortcode Builder"
+msgstr ""
+
+#: ./youtube-showcase/includes/class-emd-widget.php:132
+msgid "Title"
+msgstr ""
+
+#: ./youtube-showcase/includes/class-emd-widget.php:137
+msgid "%s to show"
+msgstr ""
+
+#: ./youtube-showcase/includes/class-emd-widget.php:138
+msgid "Max: 10"
+msgstr ""
+
+#: ./youtube-showcase/includes/class-emd-widget.php:209
+#: ./youtube-showcase/includes/class-emd-widget.php:222
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ./youtube-showcase/includes/common-functions.php:391
+msgid "Author:"
+msgstr ""
+
+#: ./youtube-showcase/includes/common-functions.php:392
+msgid "%s \a\t %s"
+msgstr ""
+
+#: ./youtube-showcase/includes/common-functions.php:1049
+#: ./youtube-showcase/includes/common-functions.php:1063
+msgid "Please refresh the page and try again."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:300
+msgid "Emd Form Builder makes it easy to create simple or advanced forms with a few clicks."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:300
+msgid "Click here to learn more."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:345
+msgid "Saved successfully."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:353
+msgid "Editing Form:"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:354
+msgid "Save"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:360
+msgid "Click here to add row"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:360
+msgid "Add Row"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:363
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:364
+msgid "Click here to add"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:363
+msgid "Divider"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:364
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:678
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1070
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1416
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1424
+msgid "HTML"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:368
+msgid "Click here to add a form wizard page"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:368
+msgid "Add Page"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:371
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:375
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1196
+msgid "Click to go to this page"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:372
+msgid "Page 1"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:376
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:583
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:598
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:663
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:850
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1197
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1202
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1246
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1386
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1406
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1411
+msgid "Delete"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:377
+msgid "Page %s"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:383
+msgid "Fields"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:384
+msgid "Settings"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:456
+msgid "Drag this field to a row."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:468
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:484
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:511
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:538
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:555
+msgid "Drag this field to a row - available in premium edition."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:495
+msgid "Drag this field to a row"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:557
+msgid "Login Box"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:584
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:664
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1203
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1247
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1387
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1407
+msgid "Drag to reorder"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:599
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:851
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1412
+msgid "Drag to reorder / Click for settings"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:667
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1206
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1250
+msgid "Drag fields here"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:791
+msgid "Hidden field"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:795
+msgid "Global field"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1012
+msgid "There are no settings options for hidden fields."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1016
+msgid "There are no settings options for global fields."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1020
+msgid "Label"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1029
+msgid "Required"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1032
+msgid "Size"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1042
+msgid "Size column refers to the form elements length relative to the other elements in the same row. Total element size in each row can not exceed 12 units."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1045
+msgid "Description"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1053
+msgid "Placeholder"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1057
+msgid "Css Class"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1077
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1215
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1225
+msgid "Step Title"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1085
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1219
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1229
+msgid "Step Description"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1096
+msgid "Login Label"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1102
+msgid "Already have an account? Login."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1106
+msgid "Register Label"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1112
+msgid "Need to create an account? Register."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1116
+msgid "Login Username Label"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1122
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1159
+msgid "Username"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1126
+msgid "Login Password Label"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1132
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1169
+msgid "Password"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1136
+msgid "Redirect Link"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1142
+msgid "If left empty after login user will be redirected to single entity page."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1150
+msgid "Enable Registration"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1153
+msgid "Registration Username Label"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1163
+msgid "Registration Password Label"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1173
+msgid "Registration Confirm Password Label"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1179
+msgid "Confirm Password"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1198
+msgid "Page"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1415
+msgid "Click to go to settings"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-builder.php:1433
+msgid "Login / Register Box"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:79
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:2014
+msgid "Invalid username"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:83
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:2011
+msgid "Username already taken"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:124
+msgid "Please try again"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:131
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1019
+msgid "Please enter same password."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:138
+msgid "Please enter username."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:141
+msgid "Please enter password."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:144
+msgid "Please enter confirm password."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1035
+msgid "Please enter a unique value."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1036
+msgid "This email has been already registered."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1176
+msgid "File Upload"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1181
+msgid "ERROR:"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1183
+msgid "File size is greater than allowed limit."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1184
+msgid "Maximum number of allowable file uploads has been exceeded."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1436
+msgid "Submit"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1878
+msgid "Login"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1940
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-frontend.php:1943
+msgid "The password or username you entered is incorrect."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-functions.php:162
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-functions.php:217
+msgid "Show Form"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-functions.php:164
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-functions.php:219
+msgid "Hide Form"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-functions.php:1023
+msgid "Current Page"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-functions.php:1029
+msgid "Selected"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:18
+msgid "General"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:19
+msgid "Display"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:20
+msgid "Submissions"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:22
+msgid "Confirmations"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:24
+msgid "Scheduling"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:25
+msgid "Anti Spam"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:27
+msgid "Pages"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:31
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:86
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:309
+msgid "Search"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:33
+msgid "Code"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:42
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:47
+msgid "Form Settings:"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:50
+msgid "Error when saving."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:84
+msgid "Login Form only"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:96
+msgid "Name"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:98
+msgid "Entity"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:100
+msgid "Displays or hides registration and login forms on this form for non-logged-in users."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:101
+msgid "You are not allowed to access to this area. Please contact the site administrator."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:105
+msgid "Desktops"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:106
+msgid "Phones"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:107
+msgid "Tablets"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:108
+msgid "Large Desktops"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:110
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:237
+msgid "Top"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:111
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:157
+msgid "Left"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:112
+msgid "Inside"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:114
+msgid "Medium"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:115
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:147
+msgid "Small"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:116
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:146
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:151
+msgid "Large"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:118
+msgid "Targeted Device"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:119
+msgid "Label Placement"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:120
+msgid "Sets the field label position relative to the field input location. Options are Top,Left or Inside. Pick your label placement based on the space you have available for the form. Min 680px required for inside/top label placement with 3 column layout. If you enabled operators in your search form, you will need more space for multi-layout designs. You can always adjust the width css element of your form container when needed. Enabling operators will give access to all of your data so limiting access by role may always be a good idea."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:122
+msgid "Element Size"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:123
+msgid "Display Radios and Checkboxes Inline"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:124
+msgid "Form Class"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:128
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:244
+msgid "Publish"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:129
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:245
+msgid "Draft"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:130
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:246
+msgid "Future"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:131
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:247
+msgid "Private"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:132
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:248
+msgid "Trash"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:134
+msgid "Standard (White - #FFFFF)"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:135
+msgid "Primary (Blue - #006DCC)"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:136
+msgid "Info (Light Blue - #49AFCD)"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:137
+msgid "Success (Green - #5BB75B)"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:138
+msgid "Warning (Orange - #FAA732)"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:139
+msgid "Danger (Red - #DA4F49)"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:140
+msgid "Inverse (Black - #363636)"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:141
+msgid "Link (Blue -  #0088CC)"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:142
+msgid "Custom"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:144
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:150
+msgid "Standard"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:145
+msgid "XLarge"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:148
+msgid "Mini"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:152
+msgid "2x"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:153
+msgid "3x"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:154
+msgid "4x"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:155
+msgid "5x"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:158
+msgid "Right"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:187
+msgid "Show text"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:188
+msgid "Redirect"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:189
+msgid "Go to another form"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:209
+msgid "Thanks for your submission."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:210
+msgid "There has been an error when submitting your entry. Please contact the site administrator."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:220
+msgid "Never Show"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:221
+msgid "Always Show"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:222
+msgid "Visitors Only"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:231
+msgid "Tabs"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:232
+msgid "Arrows"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:233
+msgid "Circles"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:234
+msgid "Dots"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:236
+msgid "Bottom"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:238
+msgid "Both"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:241
+msgid "Slide"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:242
+msgid "Fade"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:250
+msgid "Wizard Style"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:251
+msgid "Display Vertical Wizard Steps"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:252
+msgid "Wizard Button Toolbar"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:254
+msgid "Wizard Transition Effect"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:256
+msgid "Save Wizard Step Data"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:299
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:302
+msgid "Basic HTML Table"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:299
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:302
+msgid "Advanced Datagrid Table"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:299
+msgid "Default"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:305
+msgid "Enable Ajax"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:306
+msgid "Enable Search Operators"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:307
+msgid "Display Records On Page Load"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:308
+msgid "Result Template Type"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:310
+msgid "Click to Select"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:311
+msgid "Show Columns"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:312
+msgid "Show Export"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:313
+msgid "Show Toggle"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:314
+msgid "Show All Records"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:315
+msgid "Page Size"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:316
+msgid "Page List"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:316
+msgid "Enter semicolon separated values such as 10, 20, 50, all"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:317
+msgid "Maintain Selected on Page Change"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:318
+msgid "Result Fields"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:319
+msgid "No Result Message"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:319
+msgid "Your search returned no results."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:323
+msgid "CDN CSS File"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:323
+msgid "Enter semicolon separated CSS file urls starting with http(s)."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:324
+msgid "CDN JS File"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/emd-form-settings.php:324
+msgid "Enter semicolon separated JavaScript file urls starting with http(s)."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:56
+msgid "Login/Register:"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:56
+msgid "Use the options below to customize Login page."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:61
+msgid "Login Page"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:83
+msgid "Use [emd_login app=\"%s\"] shortcode in your page. Attributes: ent=\"emd_customer,emd_vendor\" show_reg=1 , reg_label=\"\",reg_link=\"\",show_lost=1  "
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:85
+msgid "Password Reset Message Subject"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:94
+msgid "Password Reset Message"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:111
+msgid "Use these template tags to customize your email: {username}, {password_reset_link}, {sitename}"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:116
+msgid "User Role Redirects"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:118
+msgid "Set a redirect url which users belonging to a role will be redirected to after a successful login or logout."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:127
+msgid "%s Login"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:135
+msgid "If left empty, user will be directed to the corresponding user entity page"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:138
+msgid "If left empty, user will be directed to the site's homepage"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:142
+msgid "%s Logout"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-form-builder-lite/settings-functions-login.php:149
+msgid "If left empty user, will be directed to the login page"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:38
+msgid "<strong>After purchasing the premium edition, please remove the free plugin</strong>. Don't worry, all your records will be preserved."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:47
+msgid "Check out <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">our documentation</a> for step-by-step instructions."
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:253
+msgid "Import, Export and Update %s From/To CSV"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:254
+msgid "Do you have hundreds of %s in a spreadsheet and think about how to get them in WordPress? No problem!"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:256
+msgid "Sometimes, adding or updating %s one by one is NOT the smartest thing to do. Bulk import, update and take snapshots at will - more time to play!"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:260
+msgid "Get your %s in %s fast"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:261
+msgid "Bulk update %s with a single click"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:262
+msgid "Take periodic backups to protect yourself against data loss"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:263
+msgid "Reset and start from scratch anytime"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:266
+msgid "Create custom fields with ease"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:267
+msgid "Migrate %s from one site to another with ease"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:277
+msgid "Get your YouTube videos and update stats with a few clicks"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:278
+msgid "You can get your YouTube videos in WordPress and update their stats on demand or schedule. Bonus: Video updates are done automatically. "
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:280
+msgid "You can add multiple playlists and/or usernames and decide how often you want to get new videos or make updates to existing ones. Easy!"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:284
+msgid "Import from unlimited playlists"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:285
+msgid "Import from unlimited usernames"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:286
+msgid "On-demand video imports and updates"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:287
+msgid "On-schedule imports and updates"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:290
+msgid "Set your batch size for each run"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:291
+msgid "On-demand video stat updates"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:302
+msgid "Gather, display and search information with ease"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:303
+msgid "EMD Custom Field Builder is an easy to use yet powerful tool to customize your plugin by adding custom fields and taxonomies. "
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:305
+msgid "Learn more"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:309
+msgid "Create unlimited number of custom fields"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:310
+msgid "Provide additional level of information"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:311
+msgid "Include custom fields in submit forms to gather information *"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:312
+msgid "Include custom fields in search forms to allow finding information *"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:313
+msgid "Create 55+ different types of custom fields"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:316
+msgid "Create 4 types of custom taxonomies to group and categorize information"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:317
+msgid "Make custom fields as \"Required\" not to allow empty values"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:318
+msgid "Set a default value to offer initial option"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:319
+msgid "Enable or disable custom fields with a single click"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:320
+msgid "Limit access to information by displaying custom fields to selected user roles only"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:372
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:373
+msgid "Update to a Premium Edition to unlock Filters & Columns"
+msgstr ""
+
+#: ./youtube-showcase/includes/emd-lite/emd-lite.php:373
+msgid "Filters &amp; Columns"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:154
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:155
+msgid "Custom field updated."
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:156
+msgid "Custom field deleted."
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:157
+msgid "%s updated."
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:159
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:160
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:161
+msgid "%s saved."
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:162
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:163
+msgid "%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:163
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:164
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:183
+msgid "CSV Import/Export"
+msgstr ""
+
+#: ./youtube-showcase/includes/entities/class-emd-entity.php:608
+msgid "Duplicate"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-archive.php:43
+msgid "No archive records have been found."
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-archive.php:71
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-archive.php:73
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-login.php:4
+msgid "Log into Your Account"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-login.php:6
+msgid "Username or Email"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-login.php:14
+msgid "Remember Me"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-login.php:21
+msgid "Log In"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-login.php:26
+msgid "Lost Password?"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-login.php:31
+msgid "Register"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-register.php:10
+msgid "Email"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-register.php:14
+msgid "First Name"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-register.php:18
+msgid "Last Name"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-single.php:48
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-single.php:49
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./youtube-showcase/layouts/emd-taxonomy.php:45
+msgid "No records have been found matching the term."
+msgstr ""

@@ -1,0 +1,294 @@
+/*--------------------------------------------------------------
+General
+--------------------------------------------------------------*/
+.getting-started {
+    background: #ffffff;
+    box-shadow: 0 0 30px rgba(0,0,0,0.05);
+}
+
+.getting-started .page-header .theme-screenshot,
+.getting-started .page-header .theme-info,
+.getting-started .page-panels,
+.getting-started .page-sidebar,
+.getting-started .page-header .theme-info .theme-meta p {
+    float: left;
+}
+
+.getting-started * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.getting-started img {
+	display: inline-block;
+	width: auto\9;
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+}
+
+.getting-started .page-content,
+.getting-started .page-tabs {
+    width: 100%;
+}
+
+/*--------------------------------------------------------------
+Header
+--------------------------------------------------------------*/
+.getting-started .page-header {
+    padding: 60px;
+    border-bottom: 1px solid #f2f3f3;
+    background: #ffffff;
+}
+
+.getting-started .page-header .theme-screenshot {
+    width: 30%;
+    margin-right: 40px;
+    padding: 5px;
+    background: #f2f3f3;
+}
+
+.getting-started .page-header .theme-info {
+    width: 60%;
+}
+
+.getting-started .theme-info .page-title span::after {
+    content: ":";
+}
+
+.getting-started .page-header .theme-info .theme-description {
+    font-size: 16px;
+    line-height: 1.55;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    max-width: 40rem;
+}
+
+.getting-started .page-header .theme-info .theme-meta a,
+.getting-started .page-header .theme-info .theme-meta span {
+    font-weight: bold;
+}
+
+.getting-started .page-header .theme-info .theme-meta .theme-version::after {
+    content: "/";
+    margin-right: 5px;
+    padding-left: 5px;
+}
+
+/*--------------------------------------------------------------
+Content
+--------------------------------------------------------------*/
+.getting-started .page-content {
+    font-size: 16px;
+    line-height: 1.75;
+}
+
+.getting-started .page-content p,
+.getting-started .page-content .responsive-video,
+.getting-started .page-content .page-panels ol,
+.getting-started .page-content .page-panels ul {
+    margin-bottom: 25px;
+}
+
+.getting-started .page-content p {
+    line-height: inherit;
+    font-size: inherit;
+}
+
+.getting-started .page-tabs {
+    margin: 0;
+    background: #f2f3f3;
+}
+
+.getting-started .page-tabs li {
+    float: left;
+    margin: 0;
+    font-weight: bold;
+}
+
+.getting-started .page-tabs li a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 60px;
+}
+
+.getting-started .page-tabs li:not(.active) a {
+    color: #666666;
+}
+
+.getting-started .page-tabs li.active a {
+    background: #ffffff;
+}
+
+.getting-started .page-panels {
+    width: 64%;
+}
+
+.getting-started .page-sidebar {
+    width: 36%;
+}
+
+.getting-started .single-panel,
+.getting-started .sidebar-widget {
+    padding: 60px;
+}
+
+.getting-started .single-panel {
+    display: none;
+    border-right: 1px solid #f2f3f3;
+    margin-right: -1px;
+}
+
+.getting-started .single-panel ul {
+    list-style: disc;
+    padding-left: 40px;
+}
+
+.getting-started .single-panel h2,
+.getting-started .single-panel h3 {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    line-height: 1.25;
+    font-weight: bold;
+    letter-spacing: -0.01em;
+}
+
+.getting-started .single-panel h2 {
+    font-size: 1.625em;
+}
+
+.getting-started .single-panel h3 {
+    font-size: 1.250em;
+}
+
+.getting-started .single-panel.active {
+    display: block;
+}
+
+.getting-started .sidebar-widget {
+    border-left: 1px solid #f2f3f3;
+}
+
+.getting-started .sidebar-widget .section-title {
+    margin-top: 0;
+    font-size: 21px;
+}
+
+.getting-started pre {
+	overflow: auto;
+    background: #f2f3f3;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+.getting-started hr {
+    border-bottom: none;
+    border-color: #f2f3f3;
+    margin: 60px -60px;
+}
+
+.getting-started .single-panel .social-col {
+    width: 45%;
+    float: left;
+}
+
+.getting-started .wp-caption.aligncenter {
+    width: 100% !important;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.getting-started .wp-caption .wp-caption-text {
+    margin: 10px 0 30px;
+    text-align: center;
+    font-style: italic;
+    font-size: 13px;
+}
+
+/*--------------------------------------------------------------
+Content: License Widget
+--------------------------------------------------------------*/
+.getting-started .page-content .license-row {
+    border-bottom: 1px solid #f2f3f3;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.getting-started .page-content .license-row p {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.getting-started .page-content .license-row .button-secondary {
+    margin: 2px 0 10px;
+}
+
+.getting-started .page-content .license-row .description {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.getting-started .sidebar-widget .license-row-title {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.getting-started .sidebar-widget .license-status {
+    padding: 2px 9px 3px;
+    font-size: 14px;
+    border-radius: 1px;
+    font-weight: 300;
+    color: #666666;
+    background: #e3e4e4;
+}
+
+.getting-started .sidebar-widget .license-status.active {
+    color: #ffffff;
+    background: #51a232;
+}
+
+.getting-started .sidebar-widget .license-status.invalid {
+    color: #ffffff;
+    background: #a82829;
+}
+
+.getting-started .sidebar-widget .license-form input[type="text"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+@media only screen and (max-width:768px) {
+    .getting-started .page-header .theme-screenshot,
+    .getting-started .page-header .theme-info,
+    .getting-started .page-panels,
+    .getting-started .page-sidebar,
+    .getting-started .single-panel .social-col {
+        float: none;
+        width: 100%;
+    }
+
+    .getting-started .page-header .theme-screenshot {
+        margin: 0 0 35px;
+    }
+
+    .getting-started .single-panel {
+        border-bottom: 1px solid #f2f3f3;
+    }
+
+    .getting-started .sidebar-widget {
+        border: none;
+    }
+
+    .getting-started {
+        margin: 10px 10px 150px 0;
+    }
+}

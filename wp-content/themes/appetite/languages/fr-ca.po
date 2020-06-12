@@ -1,0 +1,346 @@
+# Translation of WordPress.com - Themes - Appetite in French (Canada)
+# This file is distributed under the same license as the WordPress.com - Themes - Appetite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-20 00:17:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr_CA\n"
+"Project-Id-Version: WordPress.com - Themes - Appetite\n"
+
+#: comments.php:30
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s commentaire"
+msgstr[1] "%s commentaires"
+
+#: comments.php:28
+msgid "One comment"
+msgstr "un commentaire"
+
+#: inc/wpcom-colors.php:67
+msgid "Links"
+msgstr "Liens"
+
+#: inc/wpcom-colors.php:17
+msgid "Main Accent"
+msgstr "Accent Principal"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/menu-page.php
+msgid "Menu Page"
+msgstr "Page de Menu"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/grid-page.php
+msgid "Grid Page"
+msgstr "Page quadrillée"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/grid-full-width-page.php
+msgid "Grid Page (Full Width)"
+msgstr "Page quadrillée (pleine largeur)"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/full-width-page.php
+msgid "Full Width Page"
+msgstr "Page Plein Écran"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/front-page.php
+msgid "Front Page"
+msgstr "Page d’Accueil"
+
+#: search.php:20
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: parts/single-attachment-header.php:27 parts/single-page-header.php:21
+#: parts/single-post-header.php:28
+msgid "Edit"
+msgstr "Modifier"
+
+#: parts/author-section.php:18
+msgid "Written by %s"
+msgstr "Rédigé par %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:46
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/extras.php:185 single-jetpack-testimonial.php:44
+#: single-nova_menu_item.php:22 single.php:28
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/extras.php:175 single-jetpack-testimonial.php:46
+#: single-nova_menu_item.php:24 single.php:30
+msgid "Previous"
+msgstr "Précédent"
+
+#: inc/extras.php:86
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:331
+msgid "Enable slideshow autoplay"
+msgstr "Permettre la rotation automatique des images"
+
+#: inc/customizer.php:317
+msgid "Display Testimonials"
+msgstr "Afficher les témoignages"
+
+#: inc/customizer.php:305
+msgid "Front Testimonials"
+msgstr "Témoignages en vedette"
+
+#: inc/customizer.php:300
+msgid "Select a layout that you want to have for this section."
+msgstr "Choisissez la présentation que vous désirez avoir pour cette section."
+
+#: inc/customizer.php:293
+msgid "Section Layout"
+msgstr "Présentation de section"
+
+#: inc/customizer.php:282
+msgid "Enter a number of posts you want to show in this section."
+msgstr "Entrez le nombre de billets que vous désirez afficher dans cette section."
+
+#: inc/customizer.php:278
+msgid "Number of posts to show"
+msgstr "Nombre de billets à afficher"
+
+#: inc/customizer.php:265
+msgid "Section Title"
+msgstr "Titre de section"
+
+#: inc/customizer.php:251
+msgid "Display Recent Blog Posts"
+msgstr "Afficher les billets les plus récents"
+
+#: inc/customizer.php:239
+msgid "Front Recent Blog Posts"
+msgstr "Page de présentation des articles récents"
+
+#: inc/customizer.php:181
+msgid "Front Featured Page #3"
+msgstr "Page principale de présentation #3"
+
+#: inc/customizer.php:123
+msgid "Front Featured Page #2"
+msgstr "Page principale de présentation #2"
+
+#: inc/customizer.php:118 inc/customizer.php:176 inc/customizer.php:234
+msgid "Choose the layout for the grid items."
+msgstr "Choisir la présentation pour les items de la page quadrillée"
+
+#: inc/customizer.php:115 inc/customizer.php:173 inc/customizer.php:231
+#: inc/customizer.php:297
+msgid "Three Columns"
+msgstr "Trois colonnes"
+
+#: inc/customizer.php:114 inc/customizer.php:172 inc/customizer.php:230
+#: inc/customizer.php:296
+msgid "Two Columns"
+msgstr "Deux colonnes"
+
+#: inc/customizer.php:111 inc/customizer.php:169 inc/customizer.php:227
+msgid "Grid Layout"
+msgstr "Présentation quadrilée"
+
+#: inc/customizer.php:100 inc/customizer.php:158 inc/customizer.php:216
+msgid "Choose the position for your page content."
+msgstr "Choisir le positionnement du contenu pour cette page."
+
+#: inc/customizer.php:97 inc/customizer.php:155 inc/customizer.php:213
+msgid "Center"
+msgstr "Centre"
+
+#: inc/customizer.php:92 inc/customizer.php:150 inc/customizer.php:208
+msgid "Content Position"
+msgstr "Positionnement du contenu"
+
+#: inc/customizer.php:78 inc/customizer.php:136 inc/customizer.php:194
+msgid "Featured Page"
+msgstr "Page à la une"
+
+#: inc/customizer.php:68 inc/customizer.php:126 inc/customizer.php:184
+msgid "In order to display a grid layout in this section, you need to select a page that has child pages."
+msgstr "Afin d'afficher cette section en format quadrillé, vous devez sélectionner une page qui contient des pages subordonnées."
+
+#: inc/customizer.php:65
+msgid "Front Featured Page #1"
+msgstr "Page principale de présentation #1"
+
+#: inc/customizer.php:60
+msgid "This text will appear next to the copyright text (year and site name) at the bottom of the page."
+msgstr "Ce texte s'affichera, à côté du texte de copyright (année et nom du site) à la fin de la page."
+
+#: inc/customizer.php:56
+msgid "Footer Text"
+msgstr "Texte de pied de page"
+
+#: inc/customizer.php:46
+msgid "By default the appetite theme will show the sidebar on the right side of your site. Use this option to change the position of your sidebar."
+msgstr "Par défaut, le thème Appetite affiche la colonne latérale, à droite, sur votre site. Utilisez cette option si vous désirez en changer la position."
+
+#: inc/customizer.php:43 inc/customizer.php:95 inc/customizer.php:153
+#: inc/customizer.php:211
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/customizer.php:42 inc/customizer.php:96 inc/customizer.php:154
+#: inc/customizer.php:212
+msgid "Right"
+msgstr "Droite"
+
+#: inc/customizer.php:38
+msgid "Sidebar Position"
+msgstr "Position de la Colonne latérale"
+
+#: inc/customizer.php:26
+msgid "General Options"
+msgstr "Options générales"
+
+#: inc/customizer.php:21
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: header.php:61
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:60
+msgid "Search"
+msgstr "Chercher"
+
+#: header.php:25
+msgid "Close"
+msgstr "Fermer"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:138
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "activée"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:143
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "activée"
+
+#: functions.php:119
+msgid "Appears in the footer section of the site."
+msgstr "Apparaît dans le pied de page du site."
+
+#: functions.php:118
+msgid "Footer"
+msgstr "Pied de page"
+
+#: functions.php:109
+msgid "Appears in the sidebar section of the site."
+msgstr "S'affiche dans la colonne latérale de votre site."
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:52
+msgid "Social Menu"
+msgstr "Menu des réseaux sociaux"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:37
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème %1$s par %2$s."
+
+#: footer.php:35
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:35
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:44 inc/extras.php:273
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Le contenu demandé n&rsquo;a pu être trouvé. Pourquoi ne pas lancer une recherche? "
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères. Réessayez en modifiant les termes de recherche."
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Vous êtes prêt à publier votre premier article? <a href=\"%1$s\">Commencez ici</a>."
+
+#. translators: %s: Name of current post
+#: content-grid.php:41 content-testimonial.php:26 content.php:39
+#: functions.php:207 parts/featured-pages/content-one.php:36
+#: parts/featured-pages/content-three.php:36
+#: parts/featured-pages/content-two.php:36 parts/hero-slideshow.php:24
+msgid "Read More %s"
+msgstr "Lire la suite %s"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Les commentaires ne sont pas permis."
+
+#: archive-jetpack-testimonial.php:27 parts/front-testimonials.php:32
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Aucun contenu n&rsquo; a été trouvé à l&rsquo;adresse demandée. Pourquoi ne pas essayer une recherche? "
+
+#: 404.php:17 archive.php:27
+msgid "Oops! That page can't be found."
+msgstr "Désolé! Cette page n'a pas été trouvée."

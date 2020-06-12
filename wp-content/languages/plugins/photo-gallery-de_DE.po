@@ -1,0 +1,261 @@
+# Translation of Plugins - Photo Gallery by 10Web &#8211; Mobile-Friendly Image Gallery - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Photo Gallery by 10Web &#8211; Mobile-Friendly Image Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-08 21:05:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Photo Gallery by 10Web &#8211; Mobile-Friendly Image Gallery - Stable (latest release)\n"
+
+#: addons/addons.php:72
+msgid "GET THIS ADD ON"
+msgstr "HOL DIR DIESES ADD-ON"
+
+#: addons/addons.php:39
+msgid "Photo Gallery Add-ons"
+msgstr "Add-ons für Photo Gallery"
+
+#: addons/addons.php:20
+msgid "Photo Gallery Export / Import"
+msgstr "Photo Gallery Export / Import"
+
+#: addons/addons.php:15
+msgid "This addon integrates NextGen with Photo Gallery allowing to import images and related data from NextGen to use with Photo Gallery"
+msgstr "Dieses Add-on integriert NextGen in Photo Gallery und erlaubt es dir, importierte Bilder und relevante Daten von NextGen mit Photo Gallery zu benutzen"
+
+#: addons/addons.php:13
+msgid "NextGen Gallery Import to Photo Gallery"
+msgstr "Import von NextGen Gallery zu Photo Gallery"
+
+#: framework/howto/data.php:79
+msgid "Attention:"
+msgstr "Achtung:"
+
+#: frontend/views/view.php:655 admin/views/Widget.php:160
+msgid "First"
+msgstr "Erste"
+
+#: frontend/views/view.php:656
+msgid "Previous"
+msgstr "Zurück"
+
+#: frontend/views/view.php:657
+msgid "Next"
+msgstr "Weiter"
+
+#: frontend/views/view.php:658 admin/views/Widget.php:161
+msgid "Last"
+msgstr "Letzte"
+
+#: frontend/views/view.php:682 admin/views/AdminView.php:270
+#: framework/WDWLibrary.php:504 framework/WDWLibrary.php:653
+msgid "of"
+msgstr "von"
+
+#: frontend/views/view.php:380 admin/views/Galleries.php:730
+#: admin/views/Themes.php:234 framework/WDWLibrary.php:374
+#: framework/WDWLibrary.php:552 framework/WDWLibrary.php:2492
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: photo-gallery.php:1419 admin/views/AdminView.php:199
+#: framework/WDWLibrary.php:373 framework/WDWLibrary.php:551
+msgid "Search"
+msgstr "Suchen"
+
+#: filemanager/view.php:151 frontend/views/view.php:432
+#: admin/views/Galleries.php:715 admin/views/Options.php:1171
+#: admin/views/Options.php:1399 admin/views/Options.php:1635
+#: admin/views/Options.php:1832 admin/views/Options.php:2072
+#: admin/views/Options.php:2231 admin/views/Options.php:2408
+#: admin/views/Options.php:2636 admin/views/Options.php:2936
+#: admin/views/Options.php:3176
+msgid "Size"
+msgstr "Größe"
+
+#: filemanager/view.php:234 frontend/views/view.php:247
+msgid "Back"
+msgstr "Zurück"
+
+#: frontend/views/BWGViewAlbum_extended_preview.php:165
+#: frontend/views/BWGViewAlbum_extended_preview.php:168
+msgid "More"
+msgstr "Mehr"
+
+#: frontend/views/BWGViewAlbum_extended_preview.php:166
+msgid "Hide"
+msgstr "Ausblenden"
+
+#: frontend/views/BWGViewGalleryBox.php:645
+msgid "The image has been deleted."
+msgstr "Das Bild wurde gelöscht. "
+
+#: photo-gallery.php:1425 frontend/views/BWGViewGalleryBox.php:788
+msgid "Maximize"
+msgstr "Maximieren"
+
+#: photo-gallery.php:1426 frontend/views/BWGViewGalleryBox.php:792
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+#: photo-gallery.php:1438 frontend/views/BWGViewGalleryBox.php:794
+msgid "Show info"
+msgstr "Info anzeigen"
+
+#: frontend/views/BWGViewGalleryBox.php:833
+msgid "Open image in original size."
+msgstr "Bild in Originalgröße. "
+
+#: photo-gallery.php:1423 frontend/views/BWGViewGalleryBox.php:993
+msgid "Hide Comments"
+msgstr "Kommentare ausblenden "
+
+#: photo-gallery.php:1424
+msgid "Restore"
+msgstr "Wiederherstellen"
+
+#: photo-gallery.php:1433 photo-gallery.php:1436
+msgid "Pause"
+msgstr "Pause"
+
+#: photo-gallery.php:626 photo-gallery.php:1414
+msgid "field is required."
+msgstr "Feld ist erforderlich."
+
+#: photo-gallery.php:1415
+msgid "This is not a valid email address."
+msgstr "Dies ist keine gültige E-Mail-Adresse."
+
+#: wd/includes/notices.php:212
+msgid "Maybe Later"
+msgstr "Vielleicht später"
+
+#: frontend/controllers/controller.php:281
+#: frontend/controllers/controller.php:315
+msgid "There is no gallery selected or the gallery was deleted."
+msgstr "Es wurde keine Galerie ausgewählt oder die Galerie wurde gelöscht."
+
+#. Plugin Name of the plugin
+#: photo-gallery.php:111 admin/views/Widget.php:98
+msgid "Photo Gallery"
+msgstr "Photo Gallery"
+
+#: admin/views/Options.php:785 admin/views/Options.php:1167
+#: admin/views/Options.php:1395 admin/views/Options.php:1631
+#: admin/views/Options.php:1828 admin/views/Options.php:2068
+#: admin/views/Options.php:2227 admin/views/Options.php:2404
+#: admin/views/Options.php:2615 admin/views/Options.php:2632
+#: admin/views/Options.php:2915 admin/views/Options.php:2932
+#: admin/views/Options.php:3155 admin/views/Options.php:3172
+#: admin/views/Themes.php:82 admin/views/Themes.php:113
+#: admin/views/Themes.php:180 admin/views/Shortcode.php:349
+msgid "Default"
+msgstr "Standard"
+
+#: photo-gallery.php:1432 photo-gallery.php:1435
+#: frontend/views/BWGViewThumbnails.php:45
+#: frontend/views/BWGViewGalleryBox.php:784
+msgid "Play"
+msgstr "Abspielen"
+
+#: photo-gallery.php:1416
+msgid "There are no images matching your search."
+msgstr "Es gibt keine Bilder, die deiner Suche entsprechen."
+
+#: photo-gallery.php:1437
+msgid "Hide info"
+msgstr "Info ausblenden"
+
+#: frontend/views/view.php:650
+msgid " item(s)"
+msgstr " Element(e)"
+
+#: frontend/views/view.php:677
+msgid "Go to the first page"
+msgstr "Gehe zur ersten Seite"
+
+#: frontend/views/view.php:678
+msgid "Go to the previous page"
+msgstr "Gehe zur vorherigen Seite"
+
+#: frontend/views/view.php:689
+msgid "Go to the next page"
+msgstr "Gehe zur nächsten Seite"
+
+#: frontend/views/view.php:690
+msgid "Go to the last page"
+msgstr "Gehe zur letzten Seite"
+
+#: frontend/views/view.php:429 admin/views/Galleries.php:637
+#: admin/views/Galleries.php:704 admin/views/Options.php:1170
+#: admin/views/Options.php:1398 admin/views/Options.php:1634
+#: admin/views/Options.php:1831 admin/views/Options.php:2071
+#: admin/views/Options.php:2230 admin/views/Options.php:2407
+#: admin/views/Options.php:2635 admin/views/Options.php:2935
+#: admin/views/Options.php:3175
+msgid "Filename"
+msgstr "Dateiname"
+
+#: frontend/views/view.php:435 admin/views/Widget.php:159
+#: admin/views/Options.php:1098 admin/views/Options.php:1174
+#: admin/views/Options.php:1402 admin/views/Options.php:1638
+#: admin/views/Options.php:1835 admin/views/Options.php:2075
+#: admin/views/Options.php:2234 admin/views/Options.php:2411
+#: admin/views/Options.php:2617 admin/views/Options.php:2639
+#: admin/views/Options.php:2917 admin/views/Options.php:2939
+#: admin/views/Options.php:3157 admin/views/Options.php:3179
+#: admin/controllers/WidgetSlideshow.php:59
+msgid "Random"
+msgstr "Zufällig"
+
+#: frontend/views/BWGViewGalleryBox.php:848
+msgid "Download original image"
+msgstr "Originalbild herunterladen"
+
+#: photo-gallery.php:1422
+msgid "Show Comments"
+msgstr "Kommentare anzeigen"
+
+#: photo-gallery.php:1427
+msgid "Exit Fullscreen"
+msgstr "Vollbild verlassen"
+
+#: wd/includes/notices.php:211
+msgid "I've already left a review"
+msgstr "Ich habe schon eine Bewertung abgegeben"
+
+#: wd/includes/notices.php:210
+msgid "Sure! I'd love to!"
+msgstr "Sicher! Ich würde es gerne tun!"
+
+#: wd/includes/notices.php:209
+msgid "We hope you've enjoyed using WordPress %s! Would you consider leaving us a review on WordPress.org?"
+msgstr "Wir hoffen, dass dir WordPress %s gefällt! Möchtest du uns vielleicht auf WordPress.org bewerten?"
+
+#: wd/includes/notices.php:208
+msgid "Leave A Review?"
+msgstr "Bewertung schreiben?"
+
+#: wd/includes/notices.php:213
+msgid "Never show again"
+msgstr "Nicht mehr anzeigen"
+
+#: frontend/views/view.php:703
+msgid "Load More..."
+msgstr "Mehr laden..."
+
+#. Description of the plugin
+msgid "This plugin is a fully responsive gallery plugin with advanced functionality.  It allows having different image galleries for your posts and pages. You can create unlimited number of galleries, combine them into albums, and provide descriptions and tags."
+msgstr "Dieses Plugin ist ein komplett responsives Galerie-Plugin mit erweiterten Funktionen. Du kannst verschiedene Bildergalerien für Beiträge und Seiten haben. Du kannst beliebig viele Galerien erstellen, diese in Alben zusammenfassen und mit Beschreibungen und Schlagwörtern versehen."
+
+#: filemanager/view.php:130
+msgid "Order by:"
+msgstr "Sortieren nach:"
+
+#: frontend/controllers/controller.php:93
+msgid "There is no album selected or the gallery was deleted."
+msgstr "Es wurde kein Album ausgewählt oder die Galerie wurde gelöscht."

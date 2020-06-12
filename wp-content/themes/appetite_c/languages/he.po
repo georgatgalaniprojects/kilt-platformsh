@@ -1,0 +1,403 @@
+# Translation of WordPress.com - Themes - Appetite in Hebrew
+# This file is distributed under the same license as the WordPress.com - Themes - Appetite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-20 00:17:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: WordPress.com - Themes - Appetite\n"
+
+#: comments.php:30
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "תגובה אחת"
+msgstr[1] "%s תגובות"
+
+#: comments.php:28
+msgid "One comment"
+msgstr "תגובה אחת"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/appetite/style.css
+msgid "https://themesharbor.com/"
+msgstr "https://themesharbor.com/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/premium/appetite/style.css
+msgid "Themes Harbor"
+msgstr "Themes Harbor"
+
+#: inc/wpcom-colors.php:154
+msgid "Red and Blue"
+msgstr "אדום וכחול"
+
+#: inc/wpcom-colors.php:146
+msgid "Marine"
+msgstr "כחול ים"
+
+#: inc/wpcom-colors.php:67
+msgid "Links"
+msgstr "קישורים"
+
+#: inc/wpcom-colors.php:17
+msgid "Main Accent"
+msgstr "דגש עיקרי"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/grid-page.php
+msgid "Grid Page"
+msgstr "עמוד רשת"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/grid-full-width-page.php
+msgid "Grid Page (Full Width)"
+msgstr "עמוד רשת (רוחב מלא)"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/full-width-page.php
+msgid "Full Width Page"
+msgstr "עמוד רוחב מלא"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/appetite/templates/front-page.php
+msgid "Front Page"
+msgstr "עמוד ראשי"
+
+#: search.php:20
+msgid "Nothing Found"
+msgstr "לא נמצא כלום"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור %s"
+
+#: parts/single-attachment-header.php:27 parts/single-page-header.php:21
+#: parts/single-post-header.php:28
+msgid "Edit"
+msgstr "עריכה"
+
+#: parts/author-section.php:18
+msgid "Written by %s"
+msgstr "נכתב על ידי %s"
+
+#: inc/template-tags.php:161
+msgid "Archives"
+msgstr "ארכיון"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:159
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "צ'אטים"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "אודיו"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "סטטוסים"
+
+#: inc/template-tags.php:146
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "לינקים"
+
+#: inc/template-tags.php:144
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "ציטוטים"
+
+#: inc/template-tags.php:142
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "וידאו"
+
+#: inc/template-tags.php:140
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "תמונות"
+
+#: inc/template-tags.php:138
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "גלריות"
+
+#: inc/template-tags.php:136
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "הערות"
+
+#: inc/template-tags.php:133
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j בF Y"
+
+#: inc/template-tags.php:133
+msgid "Day: %s"
+msgstr "יום: %s"
+
+#: inc/template-tags.php:131
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:131
+msgid "Month: %s"
+msgstr "חודש: %s"
+
+#: inc/template-tags.php:129
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:129
+msgid "Year: %s"
+msgstr "שנה: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:103
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:83
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:44
+msgid "Post navigation"
+msgstr "ניווט"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "ניווט"
+
+#: inc/extras.php:170 inc/template-tags.php:55
+#: single-jetpack-testimonial.php:44 single-nova_menu_item.php:22 single.php:28
+msgid "Next"
+msgstr "הבא"
+
+#: inc/extras.php:160 inc/template-tags.php:49
+#: single-jetpack-testimonial.php:46 single-nova_menu_item.php:24 single.php:30
+msgid "Previous"
+msgstr "קודם"
+
+#: inc/extras.php:71
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#: inc/customizer.php:317
+msgid "Display Testimonials"
+msgstr "הצג המלצות"
+
+#: inc/customizer.php:305
+msgid "Front Testimonials"
+msgstr "המלצות בחזית"
+
+#: inc/customizer.php:300
+msgid "Select a layout that you want to have for this section."
+msgstr "בחרו את הפריסה הרצויה לאזור זה."
+
+#: inc/customizer.php:293
+msgid "Section Layout"
+msgstr "פריסה לאזור זה"
+
+#: inc/customizer.php:282
+msgid "Enter a number of posts you want to show in this section."
+msgstr "הזינו את מספר הפוסטים שתרצו להציג באזור זה."
+
+#: inc/customizer.php:278
+msgid "Number of posts to show"
+msgstr "מספר הפוסטים לתצוגה"
+
+#: inc/customizer.php:265
+msgid "Section Title"
+msgstr "כותרת"
+
+#: inc/customizer.php:123
+msgid "Front Featured Page #2"
+msgstr "דף מס' 2 להצגה בעמוד הבית"
+
+#: inc/customizer.php:115 inc/customizer.php:173 inc/customizer.php:231
+#: inc/customizer.php:297
+msgid "Three Columns"
+msgstr "שלושה טורים"
+
+#: inc/customizer.php:114 inc/customizer.php:172 inc/customizer.php:230
+#: inc/customizer.php:296
+msgid "Two Columns"
+msgstr "שני טורים"
+
+#: inc/customizer.php:111 inc/customizer.php:169 inc/customizer.php:227
+msgid "Grid Layout"
+msgstr "פריסת רשת"
+
+#: inc/customizer.php:97 inc/customizer.php:155 inc/customizer.php:213
+msgid "Center"
+msgstr "מרכז"
+
+#: inc/customizer.php:92 inc/customizer.php:150 inc/customizer.php:208
+msgid "Content Position"
+msgstr "מיקום התוכן"
+
+#: inc/customizer.php:78 inc/customizer.php:136 inc/customizer.php:194
+msgid "Featured Page"
+msgstr "בחירת העורך"
+
+#: inc/customizer.php:65
+msgid "Front Featured Page #1"
+msgstr "דף מס' 1 להצגה בעמוד הבית"
+
+#: inc/customizer.php:43 inc/customizer.php:95 inc/customizer.php:153
+#: inc/customizer.php:211
+msgid "Left"
+msgstr "לשמאל"
+
+#: inc/customizer.php:42 inc/customizer.php:96 inc/customizer.php:154
+#: inc/customizer.php:212
+msgid "Right"
+msgstr "לימין"
+
+#: inc/customizer.php:38
+msgid "Sidebar Position"
+msgstr "מיקום עמודה צידית"
+
+#: inc/customizer.php:26
+msgid "General Options"
+msgstr "אפשרויות כלליות"
+
+#: inc/customizer.php:21
+msgid "Theme Options"
+msgstr "אפשרויות"
+
+#: header.php:54
+msgid "Menu"
+msgstr "תפריט"
+
+#: header.php:53
+msgid "Search"
+msgstr "חיפוש"
+
+#: header.php:26
+msgid "Close"
+msgstr "סגור"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: functions.php:202
+msgid "Read More"
+msgstr "קרא עוד"
+
+#: functions.php:136
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:135
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:119
+msgid "Appears in the footer section of the site."
+msgstr "מוצג בחלק התחתון של האתר."
+
+#: functions.php:118
+msgid "Footer"
+msgstr "פוטר"
+
+#: functions.php:109
+msgid "Appears in the sidebar section of the site."
+msgstr "מופיע באזור עמודת הצד של האתר."
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr " סרגל צדדי"
+
+#: functions.php:52
+msgid "Social Menu"
+msgstr "תפריט חברתי"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: footer.php:37
+msgid "Theme: %1$s by %2$s."
+msgstr "ערכת עיצוב: %1$s של %2$s"
+
+#: footer.php:35
+msgid "Proudly powered by %s"
+msgstr "פועל על %s"
+
+#: footer.php:35
+msgid "http://wordpress.org/"
+msgstr "http://he.wordpress.org/"
+
+#: content.php:44 inc/extras.php:258
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה כי לא ניתן למצוא את מה שחיפשת, אולי חיפוש יעזור."
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "מצוערים, אבל לא נמצאה התאמה. אפשר לנסות שוב עם מילות חיפוש שונות."
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הרשומה הראשונה שלך? <a href=\"%1$s\">התחל כאן</a>."
+
+#. translators: %s: Name of current post
+#: content-grid.php:41 content-testimonial.php:26 content.php:39
+#: parts/featured-pages/content-one.php:36
+#: parts/featured-pages/content-three.php:36
+#: parts/featured-pages/content-two.php:36 parts/hero-slideshow.php:24
+msgid "Read More %s"
+msgstr "לקרוא עוד %s"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: content-front-post.php:27 content-search.php:20 content.php:28
+#: parts/single-attachment-header.php:24 parts/single-post-header.php:25
+msgid "Leave a comment"
+msgstr "כתיבת תגובה"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: archive-jetpack-testimonial.php:27 parts/front-testimonials.php:32
+msgid "Testimonials"
+msgstr "המלצות"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה שלא נמצא כלום במיקום הזה. אולי תנסו לחפש?"
+
+#: 404.php:17 archive.php:27
+msgid "Oops! That page can't be found."
+msgstr "מצטערים! העמוד שחיפשת לא נמצא."

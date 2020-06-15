@@ -46,5 +46,11 @@
         "type:wordpress-muplugin"
       ]
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ]
 }

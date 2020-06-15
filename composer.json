@@ -26,7 +26,21 @@
     "php": ">=5.6.20",
     "johnpbloch/wordpress-core-installer": "^1.0",
     "johnpbloch/wordpress-core": "5.4.1",
-    "platformsh/config-reader": "^2.3"
+    "platformsh/config-reader": "^2.3",
+    "wpackagist-plugin/eps-301-redirects": "^2.45",
+    "wpackagist-plugin/amp": "^1.5",
+    "wpackagist-plugin/contact-form-7": "^5.1",
+    "wpackagist-plugin/easy-google-fonts": "^1.4",
+    "wpackagist-plugin/enable-media-replace": "^3.4",
+    "wpackagist-plugin/contact-form-7-honeypot": "^1.14",
+    "wpackagist-plugin/jetpack": "^8.6",
+    "wpackagist-plugin/photo-gallery": "^1.5",
+    "wpackagist-plugin/svg-support": "^2.3",
+    "wpackagist-plugin/ultimate-addons-for-gutenberg": "^1.15",
+    "wpackagist-plugin/wordpress-importer": "^0.7.0",
+    "wpackagist-plugin/wp-file-manager": "^6.4",
+    "wpackagist-plugin/wordpress-seo": "^14.3",
+    "wpackagist-plugin/youtube-showcase": "^3.2"
   },
   "scripts": {
     "copywpconfig": [

@@ -43,7 +43,9 @@
     "wpackagist-plugin/youtube-showcase": "^3.2",
     "kilt/appetite": "dev-master",
     "kilt/appetite_c": "dev-master",
-    "wpackagist-plugin/akismet": "4.1.6"
+    "wpackagist-plugin/akismet": "4.1.6",
+    "wpackagist-theme/twentynineteen": "1.6",
+    "wpackagist-theme/twentytwenty": "1.4"
   },
   "scripts": {
     "copywpconfig": [

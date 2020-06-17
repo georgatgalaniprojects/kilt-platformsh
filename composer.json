@@ -74,6 +74,11 @@
     {
       "type": "path",
       "url": "./wp-content/themes/appetite"
+    },
+    ,
+    {
+      "type": "path",
+      "url": "./wp-content/themes/appetite_c"
     }
   ]
 }

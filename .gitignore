@@ -1,0 +1,5 @@
+#!/wp-content/themes
+#/wp-content/themes/*
+
+# Don’t ignore evolve-child theme
+!/wp-content/themes/appetite

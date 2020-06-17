@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "129f1cb2a88bc91d5604a4e1a8075bf5",
+    "content-hash": "97d15742573d4b7e71bb6008bcdc898e",
     "packages": [
         {
             "name": "composer/installers",
@@ -221,6 +221,16 @@
                 "wordpress"
             ],
             "time": "2018-11-09T20:10:38+00:00"
+        },
+        {
+            "name": "kilt/appetite",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "./wp-content/themes/appetite",
+                "reference": "bd24a80179aba0436ff5c6fd8b3dcfe099f0b541"
+            },
+            "type": "wordpress-theme"
         },
         {
             "name": "platformsh/config-reader",
@@ -517,7 +527,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "kilt/appetite": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

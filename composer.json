@@ -25,7 +25,7 @@
   "require": {
     "php": ">=5.6.20",
     "johnpbloch/wordpress-core-installer": "^1.0",
-    "johnpbloch/wordpress-core": "5.4.1",
+    "johnpbloch/wordpress-core": "5.4.2",
     "platformsh/config-reader": "^2.3",
     "wpackagist-plugin/eps-301-redirects": "^2.45",
     "wpackagist-plugin/amp": "^1.5",
@@ -42,7 +42,8 @@
     "wpackagist-plugin/wordpress-seo": "^14.3",
     "wpackagist-plugin/youtube-showcase": "^3.2",
     "kilt/appetite": "dev-master",
-    "kilt/appetite_c": "dev-master"
+    "kilt/appetite_c": "dev-master",
+    "wpackagist-plugin/akismet": "4.1.6"
   },
   "scripts": {
     "copywpconfig": [

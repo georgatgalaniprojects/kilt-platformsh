@@ -40,7 +40,8 @@
     "wpackagist-plugin/wordpress-importer": "^0.7.0",
     "wpackagist-plugin/wp-file-manager": "^6.4",
     "wpackagist-plugin/wordpress-seo": "^14.3",
-    "wpackagist-plugin/youtube-showcase": "^3.2"
+    "wpackagist-plugin/youtube-showcase": "^3.2",
+    "georgatgalaniprojects/wp-content/themes/appetite": "^3.2"
   },
   "scripts": {
     "copywpconfig": [
@@ -65,6 +66,13 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
-    }
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/georgatgalaniprojects/kilt-platformsh.git"
+    },  {
+      "type": "path",
+      "url": "./themes/appetite"
+  },
   ]
 }

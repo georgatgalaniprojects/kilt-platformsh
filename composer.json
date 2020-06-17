@@ -70,9 +70,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/georgatgalaniprojects/kilt-platformsh.git"
-    },  {
+    },
+    {
       "type": "path",
-      "url": "./themes/appetite"
-  },
+      "url": "./wp-content/themes/appetite"
+    },
   ]
 }

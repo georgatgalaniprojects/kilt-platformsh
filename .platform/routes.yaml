@@ -3,7 +3,8 @@
 # Each route describes how an incoming URL is going
 # to be processed by Platform.sh.
 
-"https://{default}/":
+#"https://{default}/":
+"https://www.{default}/":
     type: upstream
     upstream: "app:http"
     cache:
@@ -16,6 +17,6 @@
             - '/^wp-settings-/'
             - '/^wp-postpass/'
 
-"https://www.{default}/":
-    type: redirect
-    to: "https://{default}/"
+#"https://www.{default}/":
+#    type: redirect
+#    to: "https://{default}/"

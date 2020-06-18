@@ -17,6 +17,6 @@
             - '/^wp-settings-/'
             - '/^wp-postpass/'
 
-"https://{default}/":
-    type: redirect
-    to: "https://www.{default}/"
+#"https://{default}/":
+#    type: redirect
+#    to: "https://www.{default}/"

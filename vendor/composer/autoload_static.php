@@ -11,12 +11,20 @@ class ComposerStaticInit3b3288b3c48d21e927c8296530b9357f
         array (
             'Platformsh\\ConfigReader\\' => 24,
         ),
+        'C' => 
+        array (
+            'Composer\\Installers\\' => 20,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Platformsh\\ConfigReader\\' => 
         array (
             0 => __DIR__ . '/..' . '/platformsh/config-reader/src',
+        ),
+        'Composer\\Installers\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers',
         ),
     );
 

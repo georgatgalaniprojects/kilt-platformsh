@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Platformsh\\ConfigReader\\' => array($vendorDir . '/platformsh/config-reader/src'),
+    'Composer\\Installers\\' => array($vendorDir . '/composer/installers/src/Composer/Installers'),
 );

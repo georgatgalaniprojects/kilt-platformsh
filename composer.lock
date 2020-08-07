@@ -302,15 +302,15 @@
         },
         {
             "name": "wpackagist-plugin/amp",
-            "version": "1.5.3",
+            "version": "1.5.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/amp/",
-                "reference": "tags/1.5.3"
+                "reference": "tags/1.5.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/amp.1.5.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/amp.1.5.5.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -320,15 +320,15 @@
         },
         {
             "name": "wpackagist-plugin/contact-form-7",
-            "version": "5.1.9",
+            "version": "5.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/contact-form-7/",
-                "reference": "tags/5.1.9"
+                "reference": "tags/5.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/contact-form-7.5.1.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/contact-form-7.5.2.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -374,15 +374,15 @@
         },
         {
             "name": "wpackagist-plugin/enable-media-replace",
-            "version": "3.4.0",
+            "version": "3.4.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/enable-media-replace/",
-                "reference": "tags/3.4.0"
+                "reference": "tags/3.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/enable-media-replace.3.4.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/enable-media-replace.3.4.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -410,15 +410,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "8.6.1",
+            "version": "8.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/8.6.1"
+                "reference": "tags/8.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.8.6.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/jetpack.8.8.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -428,15 +428,15 @@
         },
         {
             "name": "wpackagist-plugin/photo-gallery",
-            "version": "1.5.56",
+            "version": "1.5.59",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/photo-gallery/",
-                "reference": "tags/1.5.56"
+                "reference": "tags/1.5.59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/photo-gallery.1.5.56.zip"
+                "url": "https://downloads.wordpress.org/plugin/photo-gallery.1.5.59.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -464,15 +464,15 @@
         },
         {
             "name": "wpackagist-plugin/ultimate-addons-for-gutenberg",
-            "version": "1.15.2",
+            "version": "1.16.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/ultimate-addons-for-gutenberg/",
-                "reference": "tags/1.15.2"
+                "reference": "tags/1.16.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ultimate-addons-for-gutenberg.1.15.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/ultimate-addons-for-gutenberg.1.16.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -500,15 +500,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "14.3",
+            "version": "14.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/14.3"
+                "reference": "tags/14.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -518,7 +518,7 @@
         },
         {
             "name": "wpackagist-plugin/wp-file-manager",
-            "version": "6.4",
+            "version": "6.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-file-manager/",
@@ -526,7 +526,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1590389287"
+                "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1592457597"
             },
             "require": {
                 "composer/installers": "~1.0"

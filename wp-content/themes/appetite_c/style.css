@@ -3415,3 +3415,13 @@ border-radius: 0px !important;
 box-shadow: 0 0px 0px rgba(0,0,0,0.05)!important;
 }
 
+/* radio buttons */
+.wpcf7-form-control.wpcf7-radio {
+	display: flex;
+	width: 50%;
+	justify-content: space-between;
+	flex-direction: column;
+	}
+	.wpcf7-form-control.wpcf7-radio .wpcf7-list-item {
+		width: 100% !important;
+}

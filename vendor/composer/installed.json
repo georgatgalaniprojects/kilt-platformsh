@@ -329,16 +329,16 @@
     },
     {
         "name": "wpackagist-plugin/contact-form-7",
-        "version": "5.2.1",
-        "version_normalized": "5.2.1.0",
+        "version": "5.2.2",
+        "version_normalized": "5.2.2.0",
         "source": {
             "type": "svn",
             "url": "https://plugins.svn.wordpress.org/contact-form-7/",
-            "reference": "tags/5.2.1"
+            "reference": "tags/5.2.2"
         },
         "dist": {
             "type": "zip",
-            "url": "https://downloads.wordpress.org/plugin/contact-form-7.5.2.1.zip"
+            "url": "https://downloads.wordpress.org/plugin/contact-form-7.5.2.2.zip"
         },
         "require": {
             "composer/installers": "~1.0"
@@ -449,16 +449,16 @@
     },
     {
         "name": "wpackagist-plugin/jetpack",
-        "version": "8.8.2",
-        "version_normalized": "8.8.2.0",
+        "version": "8.9",
+        "version_normalized": "8.9.0.0",
         "source": {
             "type": "svn",
             "url": "https://plugins.svn.wordpress.org/jetpack/",
-            "reference": "tags/8.8.2"
+            "reference": "tags/8.9"
         },
         "dist": {
             "type": "zip",
-            "url": "https://downloads.wordpress.org/plugin/jetpack.8.8.2.zip"
+            "url": "https://downloads.wordpress.org/plugin/jetpack.8.9.zip"
         },
         "require": {
             "composer/installers": "~1.0"
@@ -528,6 +528,26 @@
         "homepage": "https://wordpress.org/plugins/ultimate-addons-for-gutenberg/"
     },
     {
+        "name": "wpackagist-plugin/wordfence",
+        "version": "7.4.11",
+        "version_normalized": "7.4.11.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/wordfence/",
+            "reference": "tags/7.4.11"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/wordfence.7.4.11.zip"
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/wordfence/"
+    },
+    {
         "name": "wpackagist-plugin/wordpress-importer",
         "version": "0.7",
         "version_normalized": "0.7.0.0",
@@ -549,16 +569,16 @@
     },
     {
         "name": "wpackagist-plugin/wordpress-seo",
-        "version": "14.8",
-        "version_normalized": "14.8.0.0",
+        "version": "14.9",
+        "version_normalized": "14.9.0.0",
         "source": {
             "type": "svn",
             "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-            "reference": "tags/14.8"
+            "reference": "tags/14.9"
         },
         "dist": {
             "type": "zip",
-            "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.8.zip"
+            "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.9.zip"
         },
         "require": {
             "composer/installers": "~1.0"
@@ -569,8 +589,8 @@
     },
     {
         "name": "wpackagist-plugin/wp-file-manager",
-        "version": "6.6",
-        "version_normalized": "6.6.0.0",
+        "version": "6.9",
+        "version_normalized": "6.9.0.0",
         "source": {
             "type": "svn",
             "url": "https://plugins.svn.wordpress.org/wp-file-manager/",
@@ -578,7 +598,7 @@
         },
         "dist": {
             "type": "zip",
-            "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1597735263"
+            "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1598963581"
         },
         "require": {
             "composer/installers": "~1.0"

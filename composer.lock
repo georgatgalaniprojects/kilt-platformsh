@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c0d3659e04d0c2c6d8da1d3b6ea534b5",
+    "content-hash": "cea1b5cc1cb49e4ac6f4ff9e12c3835a",
     "packages": [
         {
             "name": "composer/installers",
@@ -446,15 +446,15 @@
         },
         {
             "name": "wpackagist-plugin/photo-gallery",
-            "version": "1.5.59",
+            "version": "1.5.62",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/photo-gallery/",
-                "reference": "tags/1.5.59"
+                "reference": "tags/1.5.62"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/photo-gallery.1.5.59.zip"
+                "url": "https://downloads.wordpress.org/plugin/photo-gallery.1.5.62.zip"
             },
             "require": {
                 "composer/installers": "~1.0"

@@ -309,16 +309,16 @@
     },
     {
         "name": "wpackagist-plugin/amp",
-        "version": "1.5.5",
-        "version_normalized": "1.5.5.0",
+        "version": "2.0.1",
+        "version_normalized": "2.0.1.0",
         "source": {
             "type": "svn",
             "url": "https://plugins.svn.wordpress.org/amp/",
-            "reference": "tags/1.5.5"
+            "reference": "tags/2.0.1"
         },
         "dist": {
             "type": "zip",
-            "url": "https://downloads.wordpress.org/plugin/amp.1.5.5.zip"
+            "url": "https://downloads.wordpress.org/plugin/amp.2.0.1.zip"
         },
         "require": {
             "composer/installers": "~1.0"

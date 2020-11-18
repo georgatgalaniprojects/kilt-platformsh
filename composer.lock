@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9eae217f6d7ea7edc6ab5396e8950b0a",
+    "content-hash": "ca57bcb26a2c17ff239a52457e3d5205",
     "packages": [
         {
             "name": "composer/installers",
@@ -285,15 +285,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "4.1.6",
+            "version": "4.1.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/4.1.6"
+                "reference": "tags/4.1.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.4.1.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/akismet.4.1.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -303,15 +303,15 @@
         },
         {
             "name": "wpackagist-plugin/amp",
-            "version": "2.0.1",
+            "version": "2.0.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/amp/",
-                "reference": "tags/2.0.1"
+                "reference": "tags/2.0.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/amp.2.0.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/amp.2.0.6.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -365,7 +365,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/easy-google-fonts.zip?timestamp=1564916315"
+                "url": "https://downloads.wordpress.org/plugin/easy-google-fonts.zip?timestamp=1605028404"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -393,15 +393,15 @@
         },
         {
             "name": "wpackagist-plugin/eps-301-redirects",
-            "version": "2.51",
+            "version": "2.53",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/eps-301-redirects/",
-                "reference": "tags/2.51"
+                "reference": "tags/2.53"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/eps-301-redirects.2.51.zip"
+                "url": "https://downloads.wordpress.org/plugin/eps-301-redirects.2.53.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -411,15 +411,15 @@
         },
         {
             "name": "wpackagist-plugin/etracker",
-            "version": "1.5.0",
+            "version": "1.5.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/etracker/",
-                "reference": "tags/1.5.0"
+                "reference": "tags/1.5.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/etracker.1.5.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/etracker.1.5.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -563,7 +563,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1598963581"
+                "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1600111805"
             },
             "require": {
                 "composer/installers": "~1.0"

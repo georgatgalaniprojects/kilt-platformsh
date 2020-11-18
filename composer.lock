@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ca57bcb26a2c17ff239a52457e3d5205",
+    "content-hash": "c8afa04d425c97e2a152fcdb0756ea66",
     "packages": [
         {
             "name": "composer/installers",
@@ -429,15 +429,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "8.9",
+            "version": "9.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/8.9"
+                "reference": "tags/9.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.8.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/jetpack.9.1.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -501,15 +501,15 @@
         },
         {
             "name": "wpackagist-plugin/wordfence",
-            "version": "7.4.11",
+            "version": "7.4.12",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordfence/",
-                "reference": "tags/7.4.11"
+                "reference": "tags/7.4.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordfence.7.4.11.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordfence.7.4.12.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -537,15 +537,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "14.9",
+            "version": "15.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/14.9"
+                "reference": "tags/15.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.14.9.zip"
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.15.3.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -573,15 +573,15 @@
         },
         {
             "name": "wpackagist-plugin/youtube-showcase",
-            "version": "3.2.6",
+            "version": "3.2.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/youtube-showcase/",
-                "reference": "tags/3.2.6"
+                "reference": "tags/3.2.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/youtube-showcase.3.2.6.zip"
+                "url": "https://downloads.wordpress.org/plugin/youtube-showcase.3.2.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"

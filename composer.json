@@ -33,21 +33,21 @@
     "wpackagist-plugin/easy-google-fonts": "^1.4",
     "wpackagist-plugin/enable-media-replace": "^3.4",
     "wpackagist-plugin/contact-form-7-honeypot": "^1.14",
-    "wpackagist-plugin/jetpack": "^8.6",
+    "wpackagist-plugin/jetpack": "9.1",
     "wpackagist-plugin/photo-gallery": "^1.5",
     "wpackagist-plugin/svg-support": "^2.3",
     "wpackagist-plugin/ultimate-addons-for-gutenberg": "^1.15",
     "wpackagist-plugin/wordpress-importer": "^0.7.0",
     "wpackagist-plugin/wp-file-manager": "^6.4",
-    "wpackagist-plugin/wordpress-seo": "^14.3",
-    "wpackagist-plugin/youtube-showcase": "^3.2",
+    "wpackagist-plugin/wordpress-seo": "15.3",
+    "wpackagist-plugin/youtube-showcase": "3.2.7",
     "kilt/appetite": "dev-master",
     "kilt/appetite_c": "dev-master",
     "wpackagist-plugin/akismet": "4.1.7",
     "wpackagist-theme/twentynineteen": "1.6",
     "wpackagist-theme/twentytwenty": "1.4",
     "wpackagist-plugin/etracker": "1.5.1",
-    "wpackagist-plugin/wordfence": "^7.4"
+    "wpackagist-plugin/wordfence": "7.4.12"
   },
   "scripts": {
     "copywpconfig": [

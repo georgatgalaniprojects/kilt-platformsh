@@ -365,7 +365,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/easy-google-fonts.zip?timestamp=1564916315"
+                "url": "https://downloads.wordpress.org/plugin/easy-google-fonts.zip?timestamp=1605028404"
             },
             "require": {
                 "composer/installers": "~1.0"
@@ -563,7 +563,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1598963581"
+                "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1600111805"
             },
             "require": {
                 "composer/installers": "~1.0"

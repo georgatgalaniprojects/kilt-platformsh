@@ -25,7 +25,7 @@
   "require": {
     "php": ">=5.6.20",
     "johnpbloch/wordpress-core-installer": "^2.0",
-    "johnpbloch/wordpress-core": "^5.1",
+    "johnpbloch/wordpress-core": "^5.5.1",
     "platformsh/config-reader": "^2.3",
     "wpackagist-plugin/eps-301-redirects": "^2.51",
     "wpackagist-plugin/amp": "^2.0",
